@@ -1,4 +1,4 @@
 # Nanochannels_2026_plots
-Data and code of plots for article: Direct laser writing of high aspect ratio nanochannels for nanofluidics.
+Data and scripts for generating the plots that appear in work: Direct laser writing of high aspect ratio nanochannels for nanofluidics.
 
-The data is plotted using Python code.
+The data is plotted using Python scripts.
